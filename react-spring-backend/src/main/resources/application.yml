@@ -1,0 +1,10 @@
+Spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url:
+      jdbc:mysql://localhost:3307/user_react
+    username: root
+    password: Dharma2018
+    driver-class-name: com.mysql.cj.jdbc.Driver
